@@ -2,8 +2,6 @@
 
 A modern Android app built with Jetpack Compose to showcase products from [DummyJSON API](https://dummyjson.com/docs/products).
 
-![App Screenshot](screenshots/app_preview.png) *(Add your screenshots to `/screenshots` folder)*
-
 ## Features ✨
 - Product list with lazy loading
 - Product details screen with image carousel
